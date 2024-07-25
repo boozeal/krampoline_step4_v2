@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: Krmp-d2hub-idock-9rum.cc/goorm/nginx
+        image: krmp-d2hub-idock-9rum.cc/goorm/nginx
         ports:
         - containerPort: 80
         volumeMounts:
